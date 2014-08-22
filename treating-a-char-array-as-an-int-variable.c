@@ -27,6 +27,5 @@ int main(int argc, const char * argv[])
     printf("This is the fourth character in myName not shifted a bit: %d\n",
            myName[3]);
     printf("Here is myNme as an int: %d\n", myNameAsAnInt);
- 
     return 0;
 }
