@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main(int argc, const char * argv[])
-{
+{//
     int myArray[] = {4, 8, 15, 16, 23, 42};
     char myName[] = "Axel";
     char myFullName[] = { 'A', 'x', 'e', 'l', ' ',
