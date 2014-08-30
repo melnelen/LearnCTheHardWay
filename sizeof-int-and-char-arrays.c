@@ -36,6 +36,5 @@ int main(int argc, const char * argv[])
      
     printf("The fourteenth character in myFullName is: %c\n", myFullName[13]);
             //This character is past the end of the array
-     
     return 0;
 }
